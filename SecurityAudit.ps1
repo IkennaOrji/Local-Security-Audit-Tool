@@ -1,5 +1,5 @@
 Write-Host "====================================="
-Write-Host " Ikenna Orji's Security Audit Tool"
+Write-Host "        Security Audit Tool"
 Write-Host "====================================="
 Write-Host ""
 
