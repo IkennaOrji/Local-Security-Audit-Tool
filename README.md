@@ -17,6 +17,6 @@ I created a defensive endpoint security tool written natively in PowerShell to a
 2. Open your terminal or PowerShell console.
 3. Run the script:
    ```bash
-   pwsh SecurityAuditTool.ps1
+   pwsh SecurityAudit.ps1
 
 I hope you enjoy!
